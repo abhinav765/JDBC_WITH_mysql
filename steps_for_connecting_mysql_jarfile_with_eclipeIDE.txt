@@ -1,0 +1,9 @@
+1.open the eclipse IDE and create a new package
+2.(after creation of package)take the mouse pointer on your package and right click 
+3.go to the build path
+4.go to configure build path
+5.go to Libraries section
+6.click on Classpath
+7.click on Add External JARs.. (right side of window)
+8.now go that perticuler folder where your mysql jar file is available
+9.now finally click on Apply and close.
